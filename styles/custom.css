@@ -1,0 +1,7 @@
+/* Custom CSS for Starlight */
+
+:root {
+    --sl-color-accent-low: #990000;
+    --sl-color-accent: #dd0000;
+    --sl-color-accent-high: #fccccc;
+}
